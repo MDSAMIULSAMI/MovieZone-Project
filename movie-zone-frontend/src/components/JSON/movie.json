@@ -1,0 +1,259 @@
+[
+  {
+    "id": 22,
+    "name": "Dark",
+    "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s when an unknown printer took agalley of type and scrambled it to make a type specimen book. It has survived not only five centuries but. It was popularised in the 1960s with the release of Letraset sheets containing",
+    "quality": "https://img.icons8.com/ios/50/hd-1080p.png",
+    "type": "Movie",
+    "contentType": "https://img.icons8.com/external-tanah-basah-detailed-outline-tanah-basah/25/external-18-user-interface-tanah-basah-detailed-outline-tanah-basah.png",
+    "country": "USA",
+    "status": "Completed",
+    "duration": "1h 24 min",
+    "dateAired": "Jan 10, 2021",
+    "genres": "Mystrey, Horror",
+    "rating": "8.00",
+    "episode": 1,
+    "studio": "PA Works",
+    "producer": "Lanis,  NTT Docomo",
+    "actor": "KlockWork, Toho",
+    "imageUrl": "https://marketplace.canva.com/EAFVCFkAg3w/1/0/1131w/canva-red-and-black-horror-movie-poster-AOBSIAmLWOs.jpg",
+    "episodes": [
+      {
+        "episodeId": 1,
+        "episodeName": "Dark",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "name": "After",
+    "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s when an unknown printer took agalley of type and scrambled it to make a type specimen book. It has survived not only five centuries but. It was popularised in the 1960s with the release of Letraset sheets containing",
+    "quality": "https://img.icons8.com/ios/50/hd-1080p.png",
+    "type": "Movie",
+    "contentType": "https://img.icons8.com/external-tanah-basah-detailed-outline-tanah-basah/25/external-18-user-interface-tanah-basah-detailed-outline-tanah-basah.png",
+    "country": "UK",
+    "status": "Completed",
+    "duration": "2h min",
+    "dateAired": "Jan 10, 2023",
+    "genres": "Romantic, Horror, Sci-fi",
+    "rating": "7.00",
+    "episode": 1,
+    "studio": "SA Works",
+    "producer": "Lanis,  NTT Docomo",
+    "actor": "KlockWork, Toho",
+    "imageUrl": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/movie-poster-template-design-21a1c803fe4ff4b858de24f5c91ec57f_screen.jpg?ts=1636996180",
+    "episodes": [
+      {
+        "episodeId": 1,
+        "episodeName": "After",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Freedom",
+    "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s when an unknown printer took agalley of type and scrambled it to make a type specimen book. It has survived not only five centuries but. It was popularised in the 1960s with the release of Letraset sheets containing",
+    "quality": "https://img.icons8.com/ios/50/hd-1080p.png",
+    "type": "Movie",
+    "contentType": "https://img.icons8.com/external-tanah-basah-detailed-outline-tanah-basah/25/external-18-user-interface-tanah-basah-detailed-outline-tanah-basah.png",
+    "country": "USA",
+    "status": "Completed",
+    "duration": "24 min",
+    "dateAired": "Aug 10, 2023",
+    "genres": "Mystrey, Thriller",
+    "rating": "7.80",
+    "episode": 1,
+    "studio": "PA Works",
+    "producer": "Lanis,  NTT Docomo",
+    "actor": "KlockWork, Toho",
+    "imageUrl": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/action-movie-poster-template-design-0f5fff6262fdefb855e3a9a3f0fdd361_screen.jpg?ts=1700270983",
+    "episodes": [
+      {
+        "episodeId": 1,
+        "episodeName": "Freedom",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Bloodshot",
+    "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s when an unknown printer took agalley of type and scrambled it to make a type specimen book. It has survived not only five centuries but. It was popularised in the 1960s with the release of Letraset sheets containing",
+    "quality": "https://img.icons8.com/ios/50/hd-1080p.png",
+    "type": "Movie",
+    "contentType": "https://img.icons8.com/external-tanah-basah-detailed-outline-tanah-basah/25/external-18-user-interface-tanah-basah-detailed-outline-tanah-basah.png",
+    "country": "USA",
+    "status": "Completed",
+    "duration": "1h 24min",
+    "dateAired": "Jan 10, 2014",
+    "genres": "Action, Thriller",
+    "rating": "7.88",
+    "episode": 1,
+    "studio": "CA Works",
+    "producer": "Lanis,  NTT Docomo",
+    "actor": "KlockWork, Toho",
+    "imageUrl": "https://cdn.cinematerial.com/p/297x/qwctuwuv/bloodshot-indian-movie-poster-md.jpg?v=1579984252",
+    "episodes": [
+      {
+        "episodeId": 1,
+        "episodeName": "Bloodshot",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Morbius",
+    "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s when an unknown printer took agalley of type and scrambled it to make a type specimen book. It has survived not only five centuries but. It was popularised in the 1960s with the release of Letraset sheets containing",
+    "quality": "https://img.icons8.com/ios/50/hd-1080p.png",
+    "type": "TV",
+    "contentType": "https://img.icons8.com/external-tanah-basah-detailed-outline-tanah-basah/25/external-18-user-interface-tanah-basah-detailed-outline-tanah-basah.png",
+    "country": "Canada",
+    "status": "Completed",
+    "duration": "2h 24min",
+    "dateAired": "Jan 10, 2021 Mar 27, 2021",
+    "genres": "Mystrey, Horror",
+    "rating": "5.00",
+    "episode": 1,
+    "studio": "PA Works",
+    "producer": "Lanis,  NTT Docomo",
+    "actor": "KlockWork, Toho",
+    "imageUrl": "https://e1.pxfuel.com/desktop-wallpaper/868/40/desktop-wallpaper-morbius-hollywood-2022-movies-poster-thumbnail.jpg",
+    "episodes": [
+      {
+        "episodeId": 1,
+        "episodeName": "Morbius",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "name": "Sign of 5",
+    "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s when an unknown printer took agalley of type and scrambled it to make a type specimen book. It has survived not only five centuries but. It was popularised in the 1960s with the release of Letraset sheets containing",
+    "quality": "https://img.icons8.com/ios/50/hd-1080p.png",
+    "type": "TV",
+    "contentType": "https://img.icons8.com/external-tanah-basah-detailed-outline-tanah-basah/25/external-18-user-interface-tanah-basah-detailed-outline-tanah-basah.png",
+    "country": "India",
+    "status": "Completed",
+    "duration": "40 min",
+    "dateAired": "Jan 10, 2021 Mar 27, 2021",
+    "genres": "Mystrey, Horror",
+    "rating": "7.28",
+    "episode": 2,
+    "studio": "IN Works",
+    "producer": "Lanis,  NTT Docomo",
+    "actor": "KlockWork, Toho",
+    "imageUrl": "https://mott-img.b-cdn.net/q100-efalse-ptrue-fauto-w500/https://cdn6.mogiio.com/6246bad3d5bdc20008a10b77/2022/11/29/vertical-thumbnails/uploadForAppPotrait.jpg",
+    "episodes": [
+      {
+        "episodeId": 1,
+        "episodeName": "Episode 1",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+      },
+      {
+        "episodeId": 2,
+        "episodeName": "Episode 2",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4"
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "name": "Chakra",
+    "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s when an unknown printer took agalley of type and scrambled it to make a type specimen book. It has survived not only five centuries but. It was popularised in the 1960s with the release of Letraset sheets containing",
+    "quality": "https://img.icons8.com/ios/50/hd-1080p.png",
+    "type": "TV",
+    "contentType": "https://img.icons8.com/external-tanah-basah-detailed-outline-tanah-basah/25/external-18-user-interface-tanah-basah-detailed-outline-tanah-basah.png",
+    "country": "India",
+    "status": "Completed",
+    "duration": "24 min",
+    "dateAired": "Sep 10, 2021 to Jan 27, 2022",
+    "genres": "Mystrey, Horror",
+    "rating": "8.50",
+    "episode": 15,
+    "studio": "IN Works",
+    "producer": "Lanis,  NTT Docomo",
+    "actor": "KlockWork, Toho",
+    "imageUrl": "https://mott-img.b-cdn.net/q100-efalse-ptrue-fauto-w500/https://cdn6.mogiio.com/6246bad3d5bdc20008a10b77/2022/08/26/vertical-thumbnails/ChakroTrailer620x877.jpg",
+    "episodes": [
+      {
+        "episodeId": 1,
+        "episodeName": "Episode 1",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+      },
+      {
+        "episodeId": 2,
+        "episodeName": "Episode 2",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4"
+      },
+      {
+        "episodeId": 3,
+        "episodeName": "Episode 3",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"
+      },
+      {
+        "episodeId": 4,
+        "episodeName": "Episode 4",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+      },
+      {
+        "episodeId": 5,
+        "episodeName": "Episode 5",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+      },
+      {
+        "episodeId": 6,
+        "episodeName": "Episode 5",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4"
+      },
+      {
+        "episodeId": 7,
+        "episodeName": "Episode 7",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"
+      },
+      {
+        "episodeId": 8,
+        "episodeName": "Episode 8",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4"
+      },
+      {
+        "episodeId": 9,
+        "episodeName": "Episode 9",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"
+      },
+      {
+        "episodeId": 10,
+        "episodeName": "Episode 10",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+      },
+      {
+        "episodeId": 11,
+        "episodeName": "Episode 11",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"
+      },
+      {
+        "episodeId": 12,
+        "episodeName": "Episode 12",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4"
+      },
+      {
+        "episodeId": 13,
+        "episodeName": "Episode 13",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"
+      },
+      {
+        "episodeId": 14,
+        "episodeName": "Episode 14",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4"
+      },
+      {
+        "episodeId": 15,
+        "episodeName": "Episode 15",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"
+      }
+    ]
+  }
+]

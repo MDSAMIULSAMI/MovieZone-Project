@@ -1,0 +1,11 @@
+{
+    "brand": "MovieZone",
+    "links": [
+      {"id": 1, "text": "Home", "url": "http://192.168.68.109:3000/"},
+      {"id": 2, "text": "Genre", "url": "#"},
+      {"id": 3, "text": "Recommendation", "url": "#"}
+    ],
+    "searchPlaceholder": "Search",
+    "offcanvasTitle": "User Info"
+  }
+  
